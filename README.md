@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Waleed
+- 👋 Hi, I’m Waleed
 
 - 📫 How to reach me https://www.linkedin.com/in/waleedkhan94/
 
