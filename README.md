@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Waleed
-- 👀 I’m interested in Python | data science | AI | ML | Cyber Security| Cloud|
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me https://www.linkedin.com/in/waleedkhan94/
 
 <!---
